@@ -1,0 +1,14 @@
+com\contats\chat\builder\Director.class
+com\contats\chat\tratadores\ConteudoProibido.class
+com\contats\chat\tratadores\Tratador.class
+com\contats\chat\salaChat\MediatorChat.class
+com\contats\chat\builder\SalaChatBuilderMarca.class
+com\contats\chat\salaChat\SalaChat.class
+com\contats\chat\builder\SalaChatBuilder.class
+com\contats\chat\salaChat\ParticipanteChat.class
+com\contats\chat\main\Main.class
+com\contats\chat\tratadores\Processador.class
+com\contats\chat\builder\SalaChatBuilderHTML.class
+com\contats\chat\salaChat\ProxySalaChat.class
+com\contats\chat\tratadores\CensuraMarca.class
+com\contats\chat\salaChat\Participante.class
